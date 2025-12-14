@@ -116,7 +116,7 @@
 #v(0.2em)
 #education-item("Computer Engineering", "UNLaM", "2021 – paused")
 #v(0.2em)
-#education-item("Computer Science (Secondary)", "I.A.E.", "2014 – 2020")
+#education-item("Computer Science (Secondary)", "Instituto Agustín Elizalde (IAE)", "2014 – 2020")
 
 // Open Source & Interests
 #section-title("Open Source & Interests")
